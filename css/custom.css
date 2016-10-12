@@ -163,6 +163,10 @@ header .header-content .header-content-inner h3 {
     padding-bottom: 10px;
 }
 
+header .header-content .header-content-inner h4 a {
+    padding: 0;
+}
+
 header .header-content .header-content-inner hr {
     margin: 30px auto;
 }
